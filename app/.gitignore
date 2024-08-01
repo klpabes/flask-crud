@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+../.venv/Lib
+.venv
+vcs.xml
+misc.xml
+workspace.xml
+profile_settings.xml
+modules.xml
