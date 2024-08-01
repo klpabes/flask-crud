@@ -1,8 +1,4 @@
 # created by virtualenv automatically
 ../.venv/Lib
+.idea/
 .venv
-vcs.xml
-misc.xml
-workspace.xml
-profile_settings.xml
-modules.xml
